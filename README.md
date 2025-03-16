@@ -1,6 +1,6 @@
 ### Hi, I'm Konstantin 👋
 
-I am a Data Scientist who develops solutions to Computer Vision using Deep Learning and classical algorithms. My experience has focused the most on Image Enhancement and OCR.
+I am a Lead MLE who develops solutions to Computer Vision using Deep Learning and classical algorithms.
 
 Languages and Tools:
 
